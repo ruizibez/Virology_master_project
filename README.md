@@ -4,4 +4,6 @@ En este repositorio se encuentra todo el código generado para la realización d
 
 Autor :: Miguel Ruiz Ibáñez
 
+Director :: Gustavo Gómez
+
 Máster en Virología, UV 2022 - 2023 (1ª Edición)
