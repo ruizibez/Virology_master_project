@@ -4,7 +4,9 @@ Master's degree in Virology, UV 2022 - 2023 (1st Edition)
 
 Author :: Miguel Ruiz Ibáñez
 
-Director :: Gustavo Gómez
+Directors :: Gustavo Gómez
+             Julia Corell
+             Mª Carmen Herranz
 
 # Abstract
 Viroids are the smallest known pathogens. They are characterized by their non-coding RNA nature and 
