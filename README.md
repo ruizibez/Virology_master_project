@@ -4,8 +4,8 @@ Master's degree in Virology, UV 2022 - 2023 (1st Edition)
 
 Author :: Miguel Ruiz Ibáñez
 
-Directors :: Gustavo Gómez
-             Julia Corell
+Directors :: Gustavo Gómez; 
+             Julia Corell; 
              Mª Carmen Herranz
 
 # Abstract
