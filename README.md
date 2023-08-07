@@ -1,8 +1,8 @@
 # Más allá de las secuencias consenso: Análisis de las variantes y formas alternativas del viroide del enanismo del lúpulo
 
-Máster en Virología, UV 2022 - 2023 (1ª Edición)
+Master's degree in Virology, UV 2022 - 2023 (1st Edition)
 
-Autor :: Miguel Ruiz Ibáñez
+Author :: Miguel Ruiz Ibáñez
 
 Director :: Gustavo Gómez
 
